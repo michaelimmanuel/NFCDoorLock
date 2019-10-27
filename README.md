@@ -22,4 +22,3 @@
   SPI MOSI |   MOSI        | 11 / ICSP-4   			 
   SPI MISO |   MISO        | 12 / ICSP-1   
   SPI SCK  |   SCK         | 13 / ICSP-3   
-  ---------|---------------|-------------
