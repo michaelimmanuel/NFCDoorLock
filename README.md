@@ -12,11 +12,9 @@
 	LiquidCrystal_I2C.h
 	Wire.h
 	
- 
-           |   MFRC522     | Arduino       
-           |   Reader/PCD  | Uno/101        
-   PIN     |   Pin         | Pin           	 
-  ---------|---------------|------------
+   
+   PIN     |   RFID-RC522  | Arduino Uno R3	 
+  ---------|---------------|----------------
   RST/Reset|   RST         | 9             
   SPI SS   |   SDA(SS)     | 10            
   SPI MOSI |   MOSI        | 11 / ICSP-4   			 
