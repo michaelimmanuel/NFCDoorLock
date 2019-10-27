@@ -13,9 +13,9 @@
 	Wire.h
 	
  
-  PIN      |   MFRC522     | Arduino       
+           |   MFRC522     | Arduino       
            |   Reader/PCD  | Uno/101        
-           |   Pin         | Pin           	 
+   PIN     |   Pin         | Pin           	 
   ---------|---------------|------------
   RST/Reset|   RST         | 9             
   SPI SS   |   SDA(SS)     | 10            
