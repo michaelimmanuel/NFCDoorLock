@@ -30,6 +30,8 @@
   |   VCC      | 5V            
   |   SDA      | SDA   			 
   |   SCL      | SCL    		
-
-|   BUZZER      | D7
-|   SOLENOID    | D8
+  
+  |   PARTS       | ARDUINO UNO R3
+  ----------------|----------------
+  |   BUZZER      | D7
+  |   SOLENOID    | D8
